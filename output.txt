@@ -1,0 +1,4 @@
+Luas persegi: 25
+Keliling persegi: 20
+Luas persegi panjang: 24
+Keliling persegi panjang: 20
